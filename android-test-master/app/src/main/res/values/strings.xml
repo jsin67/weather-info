@@ -1,0 +1,9 @@
+<resources>
+	<string name="app_name">android-test</string>
+	<string name="internet_warning">Please check your internet connection. And restart the app.</string>
+	<string name="min_max_temp">Min Temp: %1$s, Max Temp: %2$s</string>
+	<string name="weather_info">Current Weather Information:</string>
+	<string name="forecast_info">Weather Forecast Information for next 5 days:</string>
+	<string name="data_error">There is an problem while getting the data. Please try again.</string>
+
+</resources>
